@@ -1,4 +1,7 @@
-# clean-code-javascript
+# Clean Code in JavaScript
+
+<details>
+  <summary>Show table of contents</summary>
 
 ## Table of Contents
 
@@ -14,6 +17,8 @@
 10. [Formatting](#formatting)
 11. [Comments](#comments)
 12. [Translation](#translation)
+
+</details>
 
 ## Introduction
 
